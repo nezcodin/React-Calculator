@@ -1,10 +1,19 @@
 .App {
   background-color: rgb(246, 198, 206);
   height: 100vh;
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
 
 .input-field {
-  height: 100px;
-  width: 300px;
+  height: 5rem;
+  width: 22rem;
   background-color: rgb(255, 238, 241);
+}
+
+.calculator-body {
+  height: 35rem;
+  width: 25rem;
+  background-color: rgb(218, 132, 169);
 }

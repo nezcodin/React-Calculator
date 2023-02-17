@@ -1,0 +1,10 @@
+.App {
+  background-color: rgb(246, 198, 206);
+  height: 100vh;
+}
+
+.input-field {
+  height: 100px;
+  width: 300px;
+  background-color: rgb(255, 238, 241);
+}
